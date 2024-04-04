@@ -1,4 +1,4 @@
-# Data Visualization class final project
+# Does happiness result in higher life expectancy?
 
 ## Goal
 My group wants to understand the relationship between happiness and life expectancy. We know that life expectancy is greatly tied to economic factors such as access to healthcare, housing, and food, but we also want to understand the impact of psychological factors such as happiness. Luckily for us, there exists a dataset mapping happiness to life expectancy by country. This analysis will provide a visualization of the relationship between happiness and life expectancy, allowing us to understand questions such as “Should we focus our efforts more on improving psychological wellbeing internationally in addition to economic efforts?”.
