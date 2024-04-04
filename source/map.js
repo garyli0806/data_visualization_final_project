@@ -22,7 +22,7 @@ var spec = {
     // World map and happiness/life expectancy data
     data: [{
             name: "happiness",
-            url: "https://raw.githubusercontent.com/garyli0806/csc444_assignment11/main/data/world_happiness_2020_2021.csv",
+            url: "https://raw.githubusercontent.com/garyli0806/data_visualization_final_project/main/data/world_happiness_2020_2021.csv",
             format: { type: "csv" },
             transform: [{
                     type: "filter",
